@@ -1,6 +1,8 @@
 # react-native-cn-tts-demo
 这是基于react-native-cn-tts 实现的文字转换普通话的一个简单demo
 <b>react-native-cn-tts-demo</b>
+
+<br/>
 <b>1.如何运行</b>
 <ol>
 <li>先确保你已安装好了React Native 所需的依赖环境</li>
